@@ -1,0 +1,9 @@
+.caption-container {
+  display: flex;
+  position: relative;
+}
+.caption-caption {
+  font-style: normal;
+  font-family: Poppins;
+  font-weight: 500;
+}
